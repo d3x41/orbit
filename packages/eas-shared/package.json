@@ -33,7 +33,7 @@
     "@expo/multipart-body-parser": "^1.1.0",
     "@expo/osascript": "2.0.33",
     "@expo/spawn-async": "^1.7.2",
-    "axios": "0.27.2",
+    "axios": "1.8.3",
     "bplist-parser": "^0.3.0",
     "common-types": "1.0.0",
     "debug": "^4.3.4",
