@@ -30,7 +30,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@expo/config": "^8.1.2",
+    "@expo/config": "^9.0.0",
     "@expo/multipart-body-parser": "^1.1.0",
     "@expo/osascript": "2.0.33",
     "@expo/spawn-async": "^1.7.2",
@@ -47,7 +47,7 @@
     "semver": "7.5.2",
     "system-ca": "^2.0.1",
     "tar": "6.1.13",
-    "tempy": "^0.7.1",
+    "tempy": "^3.0.0",
     "uuid": "9.0.0"
   }
 }
